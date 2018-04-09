@@ -1,0 +1,7 @@
+zoho:
+    apiKey: 8b3f59acd311f0004f2d2c61fca8f3e4
+    partner:
+        apiUrl: http://app.youndevice.com
+        docDir: data
+
+
